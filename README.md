@@ -1,1 +1,2 @@
-# LJMU_Research1
+DataSet Used in This Project is NIFTY50_all (2000-2020)
+https://www.kaggle.com/datasets/rohanrao/nifty50-stock-market-data
